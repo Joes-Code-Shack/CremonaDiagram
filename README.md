@@ -5,7 +5,8 @@
  
 by Joe Caffarini, Summer 2020. 
 
-Cite this project: [![DOI](https://zenodo.org/badge/289769021.svg)](https://zenodo.org/badge/latestdoi/289769021)
+Cite this project:   
+[![DOI](https://zenodo.org/badge/289769021.svg)](https://zenodo.org/badge/latestdoi/289769021)
 
 
 ## Background
